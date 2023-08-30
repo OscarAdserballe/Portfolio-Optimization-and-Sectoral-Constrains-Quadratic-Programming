@@ -16,10 +16,10 @@ The efficient frontier is a crucial concept in portfolio optimization. It repres
 
 The portfolio optimization process uses several mathematical models to arrive at the optimal portfolio. The primary objective function is to minimize the portfolio's variance, mathematically defined as:
 
-&sigma<sub>p</sub><sup>2</sup> = w<sup>T</sup>Cw
+&sigma;<sub>p</sub><sup>2</sup> = w<sup>T</sup>Cw
 
 Where:
-- &sigma<sub>p</sub><sup>2</sup> is the portfolio variance.
+- &sigma;<sub>p</sub><sup>2</sup> is the portfolio variance.
 - w is the weight vector for the assets in the portfolio.
 - C is the covariance matrix of the asset returns.
 
